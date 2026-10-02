@@ -3,3 +3,7 @@
 node_modules/
 qa/
 *.log
+
+!.env.example
+__pycache__/
+.venv/
